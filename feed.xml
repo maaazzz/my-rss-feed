@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>My Social Media RSS Feed</title>
+        <link>https://yourwebsite.com</link>
+        <description>A feed of social media posts</description>
+
+        <item>
+            <description>This is a post with only a description. It might be a short text update.</description>
+            <pubDate>Tue, 27 Feb 2025 12:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Check out this amazing article</title>
+            <link>https://example.com/amazing-article</link>
+            <pubDate>Tue, 27 Feb 2025 13:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Exciting News!</title>
+            <link>https://example.com/exciting-news</link>
+            <description>We have something exciting to share with you. Click the link to find out more.</description>
+            <pubDate>Tue, 27 Feb 2025 14:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <link>https://example.com/random-link</link>
+            <pubDate>Tue, 27 Feb 2025 15:00:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
