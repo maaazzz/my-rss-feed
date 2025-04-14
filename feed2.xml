@@ -21,5 +21,19 @@
       <guid>https://www.myawesomeblog.com/posts/vs-code-tips</guid>
     </item>
 
+    <item>
+      <title>Understanding Git Branching</title>
+      <description>A clear and concise guide to Git branches and best practices for working with them.</description>
+      <pubDate>Fri, 11 Apr 2025 09:15:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/git-branching</guid>
+    </item>
+
+    <item>
+      <title>Mastering API Testing with Postman</title>
+      <link>https://www.myawesomeblog.com/posts/api-testing-with-postman</link>
+      <pubDate>Thu, 10 Apr 2025 11:45:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/api-testing-with-postman</guid>
+    </item>
+
   </channel>
 </rss>
