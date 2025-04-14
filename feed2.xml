@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Awesome Blog</title>
+    <link>https://www.myawesomeblog.com</link>
+    <description>Thoughts, tutorials, and stories from a curious developer.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 14 Apr 2025 12:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <link>https://www.myawesomeblog.com/posts/getting-started-with-cypress</link>
+      <description>A beginner-friendly guide to setting up and writing tests with Cypress.</description>
+      <pubDate>Sun, 13 Apr 2025 10:00:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/getting-started-with-cypress</guid>
+    </item>
+
+    <item>
+      <link>https://www.myawesomeblog.com/posts/vs-code-tips</link>
+      <pubDate>Sat, 12 Apr 2025 14:30:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/vs-code-tips</guid>
+    </item>
+
+  </channel>
+</rss>
