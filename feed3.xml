@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Awesome Blog</title>
+    <link>https://www.myawesomeblog.com</link>
+    <description>Thoughts, tutorials, and stories from a curious developer.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 14 Apr 2025 12:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>How to Get Started with Cypress</title>
+      <link>https://www.myawesomeblog.com/posts/getting-started-with-cypress</link>
+      <description><![CDATA[
+        <p>A beginner-friendly guide to setting up and writing tests with Cypress.</p>
+        <img src="https://www.myawesomeblog.com/images/cypress-guide.png" alt="Cypress Guide" />
+      ]]></description>
+      <pubDate>Sun, 13 Apr 2025 10:00:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/getting-started-with-cypress</guid>
+      <enclosure url="https://www.myawesomeblog.com/images/cypress-guide.png" type="image/png" length="12345"/>
+    </item>
+
+    <item>
+      <title>10 VS Code Tips That Will Save You Time</title>
+      <link>https://www.myawesomeblog.com/posts/vs-code-tips</link>
+      <description><![CDATA[
+        <p>Boost your productivity in Visual Studio Code with these tips and tricks.</p>
+        <img src="https://www.myawesomeblog.com/images/vscode-tips.png" alt="VS Code Tips" />
+      ]]></description>
+      <pubDate>Sat, 12 Apr 2025 14:30:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/vs-code-tips</guid>
+      <enclosure url="https://www.myawesomeblog.com/images/vscode-tips.png" type="image/png" length="12345"/>
+    </item>
+
+    <item>
+      <title>Understanding Git Branching</title>
+      <link>https://www.myawesomeblog.com/posts/git-branching</link>
+      <description><![CDATA[
+        <p>A clear and concise guide to Git branches and best practices for working with them.</p>
+        <img src="https://www.myawesomeblog.com/images/git-branching.png" alt="Git Branching" />
+      ]]></description>
+      <pubDate>Fri, 11 Apr 2025 09:15:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/git-branching</guid>
+      <enclosure url="https://www.myawesomeblog.com/images/git-branching.png" type="image/png" length="12345"/>
+    </item>
+
+    <item>
+      <title>Mastering API Testing with Postman</title>
+      <link>https://www.myawesomeblog.com/posts/api-testing-with-postman</link>
+      <description><![CDATA[
+        <p>Learn how to create and automate API tests using Postman effectively.</p>
+        <img src="https://www.myawesomeblog.com/images/postman-api.png" alt="Postman API Testing" />
+      ]]></description>
+      <pubDate>Thu, 10 Apr 2025 11:45:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/api-testing-with-postman</guid>
+      <enclosure url="https://www.myawesomeblog.com/images/postman-api.png" type="image/png" length="12345"/>
+    </item>
+
+  </channel>
+</rss>
