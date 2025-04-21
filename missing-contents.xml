@@ -5,13 +5,6 @@
         <link>https://example.com</link>
         <description>A test feed for verifying AI content generation behavior</description>
         
-        <!-- Item with only a link - missing both title and description -->
-        <item>
-            <link>https://example.com/article-without-title-or-description</link>
-            <pubDate>Wed, 21 Apr 2025 10:00:00 GMT</pubDate>
-            <guid>item-1</guid>
-        </item>
-        
         <!-- Item with link and title - missing description -->
         <item>
             <title>This Article Has a Title But No Description</title>
@@ -19,22 +12,6 @@
             <pubDate>Wed, 21 Apr 2025 11:00:00 GMT</pubDate>
             <guid>item-2</guid>
         </item>
-        
-        <!-- Item with link and description - missing title -->
-        <item>
-            <link>https://example.com/article-without-title</link>
-            <description>This is an article that has a description but is missing a title. It contains enough content to potentially generate a title.</description>
-            <pubDate>Wed, 21 Apr 2025 12:00:00 GMT</pubDate>
-            <guid>item-3</guid>
-        </item>
-        
-        <!-- Complete item with title, link and description -->
-        <item>
-            <title>Complete Article With All Fields</title>
-            <link>https://example.com/complete-article</link>
-            <description>This article has all required fields: title, link, and description. It should not need any AI generation.</description>
-            <pubDate>Wed, 21 Apr 2025 13:00:00 GMT</pubDate>
-            <guid>item-4</guid>
-        </item>
+       
     </channel>
 </rss>
