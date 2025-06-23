@@ -32,8 +32,16 @@
             <description>We have something exciting to share with you. Click the link to find out more.</description>
             <pubDate>Tue, 27 Feb 2025 14:00:00 GMT</pubDate>
         </item>
-       
-
+       <item>
+            <title>new added</title>
+            <link>https://example.com/amazing-article</link>
+            <pubDate>Tue, 27 Feb 2025 13:00:00 GMT</pubDate>
+        </item>
+<item>
+            <description>new description</description>
+            <link>https://example.com/amazing-article</link>
+            <pubDate>Tue, 27 Feb 2025 13:00:00 GMT</pubDate>
+        </item>
         <item>
             <link>https://example.com/how-to-write-the-perfect-blog-post-my-10-000-word-journey-7b5b38525848</link>
             <pubDate>Tue, 27 Feb 2025 15:00:00 GMT</pubDate>
