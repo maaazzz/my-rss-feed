@@ -56,5 +56,13 @@
       <enclosure url="https://www.myawesomeblog.com/images/postman-api.png" type="image/png" length="12345"/>
     </item>
 
+     <item>
+      <title>asd</title>
+      <link>https://www.myawesomeblog.com/posts/api-testing-with-postman</link>
+      <description>asdasd</description>
+      <pubDate>Thu, 10 Apr 2025 11:45:00 GMT</pubDate>
+      <guid>https://www.myawesomeblog.com/posts/api-testing-with-postman</guid>
+    </item>
+
   </channel>
 </rss>
